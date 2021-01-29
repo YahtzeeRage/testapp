@@ -1,18 +1,18 @@
 {
   "files": {
-    "app.js": "/expo-gh-pages/static/js/app.c3f28017.chunk.js",
-    "app.js.map": "/expo-gh-pages/static/js/app.c3f28017.chunk.js.map",
-    "runtime~app.js": "/expo-gh-pages/static/js/runtime~app.57d3d678.js",
-    "runtime~app.js.map": "/expo-gh-pages/static/js/runtime~app.57d3d678.js.map",
-    "static/js/2.1bde55b5.chunk.js": "/expo-gh-pages/static/js/2.1bde55b5.chunk.js",
-    "static/js/2.1bde55b5.chunk.js.map": "/expo-gh-pages/static/js/2.1bde55b5.chunk.js.map",
-    "index.html": "/expo-gh-pages/index.html",
-    "manifest.json": "/expo-gh-pages/manifest.json",
-    "serve.json": "/expo-gh-pages/serve.json",
-    "static/js/2.1bde55b5.chunk.js.LICENSE.txt": "/expo-gh-pages/static/js/2.1bde55b5.chunk.js.LICENSE.txt"
+    "app.js": "/testapp/static/js/app.c3f28017.chunk.js",
+    "app.js.map": "/testapp/static/js/app.c3f28017.chunk.js.map",
+    "runtime~app.js": "/testapp/static/js/runtime~app.d859c873.js",
+    "runtime~app.js.map": "/testapp/static/js/runtime~app.d859c873.js.map",
+    "static/js/2.1bde55b5.chunk.js": "/testapp/static/js/2.1bde55b5.chunk.js",
+    "static/js/2.1bde55b5.chunk.js.map": "/testapp/static/js/2.1bde55b5.chunk.js.map",
+    "index.html": "/testapp/index.html",
+    "manifest.json": "/testapp/manifest.json",
+    "serve.json": "/testapp/serve.json",
+    "static/js/2.1bde55b5.chunk.js.LICENSE.txt": "/testapp/static/js/2.1bde55b5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.57d3d678.js",
+    "static/js/runtime~app.d859c873.js",
     "static/js/2.1bde55b5.chunk.js",
     "static/js/app.c3f28017.chunk.js"
   ]
