@@ -1,0 +1,7 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "testapp",
+  "short_name": "testapp",
+  "start_url": "/?utm_source=web_app_manifest"
+}
